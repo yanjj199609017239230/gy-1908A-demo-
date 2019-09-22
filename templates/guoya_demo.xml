@@ -1,0 +1,22 @@
+<templateSet group="guoya_demo">
+  <template name="guoya_demo_tools" value="# -*- coding: utf-8 -*-&#10;# @Project: test_prj&#10;# @Author: 小吴老师&#10;# @Email: wuling@guoyasoft.com&#10;# @Weichat: 875955899&#10;# @Create time: 2019/9/22 8:17&#10;import init_tool&#10;&#10;init_tool.init_tools_demo()" description="python基础示例代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="guoya_demo_api" value="# -*- coding: utf-8 -*-&#10;# @Project: guoya-app-test&#10;# @Author: 小吴老师&#10;# @Email: wuling@guoyasoft.com&#10;# @Weichat: 875955899&#10;# @Create time: 2019/9/22 8:28&#10;" description="api自动化示例代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="guoya_demo_ui" value="# -*- coding: utf-8 -*-&#10;# @Project: guoya-app-test&#10;# @Author: 小吴老师&#10;# @Email: wuling@guoyasoft.com&#10;# @Weichat: 875955899&#10;# @Create time: 2019/9/22 8:28&#10;" description="ui自动化示例代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="guoya_demo_app" value="# -*- coding: utf-8 -*-&#10;# @Project: guoya-app-test&#10;# @Author: 小吴老师&#10;# @Email: wuling@guoyasoft.com&#10;# @Weichat: 875955899&#10;# @Create time: 2019/9/22 8:28&#10;" description="app自动化示例代码" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
